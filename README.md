@@ -92,5 +92,3 @@ The script looks for icons named like `SuitAstralVoice.png` in:
 1. `--icons-dir`
 2. `icons/` next to the script
 3. the script folder itself
-
-Icons are not included in this repository.
